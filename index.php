@@ -58,7 +58,7 @@
 
             //Reload the current page with custom parameter
 
-            header('Location: '.'index.php?msg=1');
+            header('Location: '.$_SERVER['PHP_SELF'].'?msg=1');
 
             //5. DB Connection Close
             mysqli_close($conn);
