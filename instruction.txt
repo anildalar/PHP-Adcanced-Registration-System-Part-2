@@ -1,0 +1,23 @@
+https://www.w3schools.com/sql/sql_unique.asp
+
+MySql Constraints
+1. Unique Key (Constraints/Restrictions)
+
+
+
+Horizontal Line
+
+Record/Rows/Entry
+
+action = kaha
+
+method = kese
+    1. GET
+    2. POST
+
+$_   Super Global Variables
+
+$_SERVER['PHP_SELF']
+
+GET AND POST are request Method
+
